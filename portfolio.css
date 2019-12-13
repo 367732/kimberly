@@ -1,0 +1,62 @@
+h1{
+  color: #107a1c;
+  text-align: center;
+  font-family: HEXFontRegular;
+  font-size: 55px;
+  text-shadow: 3px 4px 5px #386ba1;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+
+table, th, td {
+  border: 2px solid #107a1c;
+  border-style: outset;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+caption{
+  font-family: DatalegreyaDot;
+  font-size: 60px
+}
+
+th{
+  height: 50px;
+  font-size: 40px;
+  font-family: DatalegreyaDot;
+
+
+}
+
+td{
+  height: 300px;
+  width: 900px;
+  text-align: left;
+  font-family: BebasNeueRegular;
+  font-size: 30px;
+}
+
+body{
+  background-color: #abf5be
+}
+
+#project.i{
+size: 500%;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,83 @@
+h1{
+  color: #a5b4cc;
+  text-align: center;
+  font-family: SpaceMeatballRegular;
+  font-size: 55px;
+  text-shadow: 3px 4px 5px #386ba1;
+}
+
+body {
+  background-image: url("https://i.pinimg.com/originals/ce/ea/77/ceea7756f6b2fd0e2e3de9f94a0ba555.jpg");
+  background-position: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+p{
+color: #3e495c;
+font-family: JelleeRoman;
+text-shadow: 3px 4px 6px #386ba1;
+text-align: center;
+font-size: 50px
+}
+
+/*
+h1{
+  font-family: Arial;
+}
+
+p{
+  font-family: monospace;
+}
+
+body{
+  font-size: 20px;
+}
+
+#two{
+  font-size: 2.0em;
+}
+
+p{
+  font-style: italic;
+  font-weight: bold;
+}
+
+h1{
+  text-align: center;
+}
+*/
+
+
+
+
+
+
+
+
+
+a:link {
+  color: #386ba1;
+}
+
+/* visited link */
+a:visited {
+  color: rgb(15, 27, 131);
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+
+

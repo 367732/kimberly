@@ -1,0 +1,55 @@
+h1{
+  color: #681313;
+  text-align: center;
+  font-family: HEXFontRegular;
+  font-size: 55px;
+  text-shadow: 3px 4px 5px #ff0000;
+}
+
+p{
+  text-align: center;
+  font-family: BebasNeueRegular;
+  font-size: 25px;
+  color: #f5a142
+}
+
+#reason{
+  font-size: 30px;
+  font-family: GenomeThin;
+  text-align: left;
+  color: black
+}
+
+#myphoto{
+  position: sticky;
+  left: 879px;
+  top: 60px;
+  z-index: 2;
+}
+
+#random{
+  position: sticky;
+  left: 20px;
+  top: 60px;
+  z-index: 2;
+}
+
+h2{
+  font-size: 38px;
+  font-family: GenomeThin;
+  font-style: bold;
+
+}
+
+body{
+  background: url(https://images.squarespace-cdn.com/content/v1/5723af26ab48de3c509bb4c8/1488576135364-A0N5FVHHUTEWIP5CX30E/ke17ZwdGBToddI8pDm48kJRqFJ19D4P4EwsC9z3fiewUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dkV64dCjSK7Zaaf7dwPYPO_gHf_vjqrS5WJoq1nmwotrP7cJNZlDXbgJNE9ef52e8w/secondarybg.jpg?format=2500w);
+  background-position: center;
+
+}
+
+
+
+
+
+
+
